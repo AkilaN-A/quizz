@@ -1,0 +1,8 @@
+body{
+	margin:0;
+	background-image: url("img/bg.jpg");
+	background-attachment:fixed;
+}
+*{
+	box-sizing: border-box;
+}
